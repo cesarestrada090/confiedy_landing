@@ -21,7 +21,7 @@ const Features = () => {
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
 
                             <Link href="/profile-authentication">
-                                <a className="link-btn">Start Now!</a>
+                                <a className="link-btn">ssStart Now!</a>
                             </Link>
                         </div>
                     </div>
