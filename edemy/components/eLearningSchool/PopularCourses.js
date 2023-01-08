@@ -6,8 +6,8 @@ const PopularCourses = () => {
         <div className="courses-area ptb-100">
             <div className="container">
                 <div className="section-title">
-                    <span className="sub-title">Learn At Your Own Pace</span>
-                    <h2>eDemy Popular Courses</h2>
+                    <span className="sub-title">Aprende a tu propio ritmo</span>
+                    <h2>Cursos Populares en Confiedy</h2>
                     <p>Explore all of our courses and pick your suitable ones to enroll and start learning with us! We ensure that you will never regret it!</p>
                 </div>
 
@@ -20,34 +20,28 @@ const PopularCourses = () => {
                                         <img src="/images/courses/courses1.jpg" alt="image" />
                                     </a>
                                 </Link>
-
-                                <Link href="#">
-                                    <a className="fav"><i className="flaticon-heart"></i></a>
-                                </Link>
-
-                                <div className="price shadow">$39</div>
                             </div>
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/user1.jpg" className="rounded-circle" alt="image" />
-                                    <span>Alex Morgan</span>
+                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Juan Carlos Minaya </span>
                                 </div>
 
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>Deep Learning a-z™: Hands-on Artificial Neural Networks</a>
+                                        <a>Matemática Básica - PUCP</a>
                                     </Link>
                                 </h3>
                                 
-                                <p>This master level course is for you if you are looking to learn the DL & ANN topics in and out within a short time!</p>
+                                <p>El curso permitirá a los estudiantes reconocer la importancia de las matemáticas en diversas actividades de la vida cotidiana, así como en distintos campos del conocimiento y contribuirá a desarrollar el razonamiento lógico. Esto se hará a través de situaciones que correspondan a contextos propios de las distintas especialidades y cuyo análisis requiera del empleo de conceptos matemáticos fundamentales.</p>
 
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
-                                        <i className='flaticon-agenda'></i> 15 Lessons
+                                        <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> 145 Students
+                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -62,34 +56,28 @@ const PopularCourses = () => {
                                         <img src="/images/courses/courses2.jpg" alt="image" />
                                     </a>
                                 </Link>
-
-                                <Link href="#">
-                                    <a className="fav"><i className="flaticon-heart"></i></a>
-                                </Link>
-
-                                <div className="price shadow">$49</div>
                             </div>
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/user2.jpg" className="rounded-circle" alt="image" />
-                                    <span>Sarah Taylor</span>
+                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Juan Carlos Minaya </span>
                                 </div>
 
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>Java Programming MasterclassName for Software Developers</a>
+                                        <a>Matemática para Economía y Finanzas I - PUCP</a>
                                     </Link>
                                 </h3>
 
-                                <p>Java is the most stable and vastly uses a top programming language for mobile, web, and desktop environments.</p>
+                                <p> Este curso abarca los siguientes temas: sistema de números reales, relaciones y funciones. Funciones de una variable, concepto de límite; tasa de cambio y derivadas, derivada y pendiente de una curva, teoremas sobre límites; continuidad y diferenciabilidad de funciones, reglas de diferenciación.</p>
                                 
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
-                                        <i className='flaticon-agenda'></i> 20 Lessons
+                                        <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> 100 Students
+                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -104,33 +92,27 @@ const PopularCourses = () => {
                                         <img src="/images/courses/courses3.jpg" alt="image" />
                                     </a>
                                 </Link>
-                                
-                                <Link href="#">
-                                    <a className="fav"><i className="flaticon-heart"></i></a>
-                                </Link>
-
-                                <div className="price shadow">$59</div>
                             </div>
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
                                     <img src="/images/user3.jpg" className="rounded-circle" alt="image" />
-                                    <span>David Warner</span>
+                                    <span>Axel Mendoza</span>
                                 </div>
 
                                 <h3>
                                     <Link href="/single-courses-1">
-                                        <a>The Data Science Course 2020: Complete Data Science Bootcamp</a>
+                                        <a>Matemática Financiera - PUCP</a>
                                     </Link>
                                 </h3>
-                                <p>We designed the Data Science Bootcamp course to give you the best learning experience within a short time.</p>
+                                <p>Se estudia el valor del dinero en el tiempo, el valor presente y valor futuro, el interés simple y compuesto, la tasa de interés nominal y efectiva, las anualidades y perpetuidades, los sistemas de amortización de préstamos, las operaciones activas y pasivas, el valor presente neto y tasa interna de retorno, y la evaluación de opciones de inversión y financiación, entre otros temas de interés..</p>
 
                                 <ul className="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li>
-                                        <i className='flaticon-agenda'></i> 20 Lessons
+                                        <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> 150 Students
+                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
                                     </li>
                                 </ul>
                             </div>

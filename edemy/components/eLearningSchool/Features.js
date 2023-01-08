@@ -6,9 +6,9 @@ const Features = () => {
         <div className="features-area pt-100 pb-70">
             <div className="container">
                 <div className="section-title">
-                    <span className="sub-title">Education for everyone</span>
-                    <h2>Affordable Online Courses and Learning Opportunities​</h2>
-                    <p>Finding your own space and utilize better learning options can result in faster than the traditional ways. Enjoy the beauty of eLearning!</p>
+                    <span className="sub-title">Educación para Todos.</span>
+                    <h2>Conecta con tu asesor de confianza y aprende de manera más fácil.</h2>
+                    <p>Encuentra tu propio espacio y utiliza mejor tus opciones de aprendizaje. Disfruta la belleza del aprendizaje.</p>
                 </div>
 
                 <div className="row">

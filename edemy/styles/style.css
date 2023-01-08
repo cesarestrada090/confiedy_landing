@@ -682,6 +682,10 @@ Navbar Area CSS
   color: #fe4a55;
 }
 
+.logo{
+  height: 120px;
+}
+
 .edemy-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
   top: 0;
   opacity: 0;

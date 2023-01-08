@@ -32,7 +32,7 @@ const Navbar = () => {
               
                             <Link href="/">
                                 <a onClick={toggleNavbar} className="navbar-brand">
-                                    <img src="/images/logo.png" alt="logo" />
+                                    <img src="/images/logo.png" className="logo" alt="logo" />
                                 </a>
                             </Link>
 
@@ -51,12 +51,7 @@ const Navbar = () => {
                             </button>
 
                             <div className={classOne} id="navbarSupportedContent">
-                                <form className="search-box">
-                                    <input type="text" className="input-search" placeholder="Search for anything" />
-                                    <button type="submit">
-                                        <i className="flaticon-search"></i>
-                                    </button>
-                                </form>
+
 
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
@@ -65,19 +60,14 @@ const Navbar = () => {
                                                 Inicio
                                             </a>
                                         </Link>
-
-
                                     </li>
-
-
-
                                 </ul>
 
                                 <div className="others-option d-flex align-items-center">
                                     <div className="option-item">
-                                        <Link href="/profile-authentication">
-                                            <a className="default-btn">
-                                                <i className="flaticon-user"></i> Ingresar <span></span>
+                                        <Link href="#">
+                                            <a className="default-btn" >
+                                                <i className="flaticon-user"></i> Bienvenido <span></span>
                                             </a>
                                         </Link>
                                     </div>
