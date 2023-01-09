@@ -110,44 +110,18 @@ const Footer = () => {
                             <h3>Address</h3>
                             <ul className="footer-contact-info">
                                 <li>
-                                    <i className='bx bx-map'></i> 
-                                    2750 Quadra Street Golden Victoria Road, New York, USA
+                                    <i className='bx bx-map'></i>
+                                    Av Reducto 864 - Miraflores - Perú
                                 </li>
                                 <li>
                                     <i className='bx bx-phone-call'></i> 
-                                    <a href="tel:+44587154756">+1 (123) 456 7890</a>
+                                    <a href="tel:+44587154756">+51 996115374</a>
                                 </li>
                                 <li>
                                     <i className='bx bx-envelope'></i> 
-                                    <a href="mailto:hello@edemy.com">hello@edemy.com</a>
+                                    <a href="mailto:hello@edemy.com">contacto@confiedy.com</a>
                                 </li>
-                                <li>
-                                    <i className='bx bxs-inbox'></i> 
-                                    <a href="tel:+557854578964">+55 785 4578964</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
 
-                <div className="footer-bottom-area">
-                    <div className="row align-items-center">
-                        <div className="col-lg-6 col-md-6">
-                            <p><i className='bx bx-copyright'></i>{currentYear} eDemy is Proudly Powered by <a target="_blank" href="https://envytheme.com/">EnvyTheme</a></p>
-                        </div>
-
-                        <div className="col-lg-6 col-md-6">
-                            <ul>
-                                <li>
-                                    <Link href="/privacy-policy">
-                                        <a>Privacy Policy</a>
-                                    </Link>
-                                </li>
-                                <li>
-                                    <Link href="/terms-of-service">
-                                        <a>Terms & Conditions</a>
-                                    </Link>
-                                </li>
                             </ul>
                         </div>
                     </div>

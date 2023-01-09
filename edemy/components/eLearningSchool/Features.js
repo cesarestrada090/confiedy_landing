@@ -17,8 +17,8 @@ const Features = () => {
                             <div className="icon">
                                 <i className="flaticon-brain-process"></i>
                             </div>
-                            <h3>Learn the Latest Top Skills</h3>
-                            <p>Learning top skills can bring an extra-ordinary outcome in a career.</p>
+                            <h3>Confianza</h3>
+                            <p>Nuestros asesores Edy estarán a tu disposición para absolver todas tus dudas.</p>
                         </div>
                     </div>
 
@@ -27,8 +27,8 @@ const Features = () => {
                             <div className="icon">
                                 <i className="flaticon-computer"></i>
                             </div>
-                            <h3>Learn in Your Own Pace</h3>
-                            <p>Everyone prefers to enjoy learning at their own pace & that gives a great result.</p>
+                            <h3>Actitud</h3>
+                            <p>¡Juntos trabajaremos para aprender y superar cada prueba!</p>
                         </div>
                     </div>
 
@@ -37,8 +37,8 @@ const Features = () => {
                             <div className="icon">
                                 <i className="flaticon-shield-1"></i>
                             </div>
-                            <h3>Learn From Industry Experts</h3>
-                            <p>Experienced teachers can assist in learning faster with their best approaches!</p>
+                            <h3>Innovación</h3>
+                            <p>Aprende con una metodología práctica y útil.</p>
                         </div>
                     </div>
 
@@ -47,8 +47,8 @@ const Features = () => {
                             <div className="icon">
                                 <i className="flaticon-world"></i>
                             </div>
-                            <h3>Enjoy Learning From Anywhere</h3>
-                            <p>We are delighted to give you options to enjoy learning from anywhere in the world.</p>
+                            <h3>Metodología</h3>
+                            <p>¡Resolvemos los ejercicios modelo para el éxito de tu evaluación!</p>
                         </div>
                     </div>
                 </div>

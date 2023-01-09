@@ -13,6 +13,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"axios": "^0.21.4",
+		"flaticon": "^0.1.0",
 		"next": "^12.3.1",
 		"nodemailer": "^6.6.3",
 		"nodemailer-sendgrid-transport": "^0.2.0",
