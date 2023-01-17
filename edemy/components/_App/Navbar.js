@@ -55,17 +55,13 @@ const Navbar = () => {
 
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="#" activeClassName="active">
-                                            <a onClick={e => e.preventDefault()} className="nav-link">
-                                                Inicio
-                                            </a>
-                                        </Link>
+
                                     </li>
                                 </ul>
 
                                 <div className="others-option d-flex align-items-center">
                                     <div className="option-item">
-                                        <Link href="#">
+                                        <Link href="https://wa.me/51996115374">
                                             <a className="default-btn" >
                                                 <i className="flaticon-user"></i> Bienvenido <span></span>
                                             </a>
