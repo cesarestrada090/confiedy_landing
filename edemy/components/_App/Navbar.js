@@ -63,7 +63,7 @@ const Navbar = () => {
                                     <div className="option-item">
                                         <Link href="https://wa.me/51930488737">
                                             <a className="default-btn" >
-                                                <i className="flaticon-user"></i> Bienvenido <span></span>
+                                                <i className="flaticon-user"></i> ¡Inscribete! <span></span>
                                             </a>
                                         </Link>
                                     </div>
