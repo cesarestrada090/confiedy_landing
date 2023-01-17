@@ -24,7 +24,7 @@ const Footer = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" className="d-block" target="_blank">
+                                    <a href="https://www.linkedin.com/in/juan-carlos-minaya-alvarado-8355a0b1/?originalSubdomain=pe" className="d-block" target="_blank">
                                         <i className='bx bxl-linkedin'></i>
                                     </a>
                                 </li>
