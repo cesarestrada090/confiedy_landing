@@ -19,26 +19,21 @@ const MainBanner = () => {
                                 <div className="col-lg-6 col-md-6">
                                     <div className="single-courses-box">
                                         <div className="courses-image">
-                                            <Link href="#">
-                                                <a className="d-block image">
-                                                    <img src="/images/courses/courses4.jpg" alt="image" />
-                                                </a>
-                                            </Link>
-
+                                            <a className="d-block image">
+                                                <img src="/images/courses/courses4.jpg" alt="image" />
+                                            </a>
                                         </div>
-
-
                                     </div>
                                 </div>
             
                                 <div className="col-lg-6 col-md-6">
                                     <div className="single-courses-box">
                                         <div className="courses-image">
-                                            <Link href="#">
+
                                                 <a className="d-block image">
                                                     <img src="/images/courses/courses5.jpg" alt="image" />
                                                 </a>
-                                            </Link>
+
                                         </div>
 
                                     </div>
