@@ -61,7 +61,7 @@ const Navbar = () => {
 
                                 <div className="others-option d-flex align-items-center">
                                     <div className="option-item">
-                                        <Link href="https://wa.me/51930488737">
+                                        <Link href="https://wa.me/51996115374">
                                             <a className="default-btn" >
                                                 <i className="flaticon-user"></i> ¡Inscribete! <span></span>
                                             </a>
