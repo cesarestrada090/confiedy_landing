@@ -8,7 +8,7 @@ const PopularCourses = () => {
                 <div className="section-title">
                     <span className="sub-title">Aprende a tu propio ritmo</span>
                     <h2>Cursos Populares en Confiedy</h2>
-                    <p>Explore all of our courses and pick your suitable ones to enroll and start learning with us! We ensure that you will never regret it!</p>
+                    <p>¡Explore todos nuestros cursos y elije los adecuados para inscribirte y comienza a aprender con nosotros!    </p>
                 </div>
 
                 <div className="row">
@@ -116,12 +116,6 @@ const PopularCourses = () => {
                                     </li>
                                 </ul>
                             </div>
-                        </div>
-                    </div>
-
-                    <div className="col-lg-12 col-md-12">
-                        <div className="courses-info">
-                            <p>Enjoy the top notch learning methods and achieve next level skills! You are the creator of your own career & we will guide you through that. <Link href="/profile-authentication"><a>Register Free Now!</a></Link>.</p>
                         </div>
                     </div>
                 </div>
