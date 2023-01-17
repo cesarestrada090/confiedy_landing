@@ -13,17 +13,13 @@ const Footer = () => {
 
                             <ul className="social-link">
                                 <li>
-                                    <a href="#" className="d-block" target="_blank">
+                                    <a href="https://www.facebook.com/ConfiEdy" className="d-block" target="_blank">
                                         <i className='bx bxl-facebook'></i>
                                     </a>
                                 </li>
+
                                 <li>
-                                    <a href="#" className="d-block" target="_blank">
-                                        <i className='bx bxl-twitter'></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#" className="d-block" target="_blank">
+                                    <a href="https://www.instagram.com/confiedy.edtech/" className="d-block" target="_blank">
                                         <i className='bx bxl-instagram'></i>
                                     </a>
                                 </li>
