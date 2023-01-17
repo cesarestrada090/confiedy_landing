@@ -15,7 +15,7 @@ const PopularCourses = () => {
                     <div className="col-lg-4 col-md-6">
                         <div className="single-courses-box">
                             <div className="courses-image">
-                                <Link href="/single-courses-1">
+                                <Link href="#">
                                     <a className="d-block image">
                                         <img src="/images/courses/courses1.jpg" alt="image" />
                                     </a>
@@ -29,7 +29,7 @@ const PopularCourses = () => {
                                 </div>
 
                                 <h3>
-                                    <Link href="/single-courses-1">
+                                    <Link href="#">
                                         <a>Matemática Básica - PUCP</a>
                                     </Link>
                                 </h3>
@@ -51,7 +51,7 @@ const PopularCourses = () => {
                     <div className="col-lg-4 col-md-6">
                         <div className="single-courses-box">
                             <div className="courses-image">
-                                <Link href="/single-courses-1">
+                                <Link href="#">
                                     <a className="d-block image">
                                         <img src="/images/courses/courses2.jpg" alt="image" />
                                     </a>
@@ -65,7 +65,7 @@ const PopularCourses = () => {
                                 </div>
 
                                 <h3>
-                                    <Link href="/single-courses-1">
+                                    <Link href="#">
                                         <a>Matemática para Economía y Finanzas I - PUCP</a>
                                     </Link>
                                 </h3>
@@ -87,7 +87,7 @@ const PopularCourses = () => {
                     <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
                         <div className="single-courses-box">
                             <div className="courses-image">
-                               <Link href="/single-courses-1">
+                               <Link href="#">
                                     <a className="d-block image">
                                         <img src="/images/courses/courses3.jpg" alt="image" />
                                     </a>
@@ -101,7 +101,7 @@ const PopularCourses = () => {
                                 </div>
 
                                 <h3>
-                                    <Link href="/single-courses-1">
+                                    <Link href="#">
                                         <a>Matemática Financiera - PUCP</a>
                                     </Link>
                                 </h3>
