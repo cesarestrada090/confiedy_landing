@@ -96,8 +96,8 @@ const PopularCourses = () => {
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/user3.jpg" className="rounded-circle" alt="image" />
-                                    <span>Axel Mendoza</span>
+                                    <img src="/images/giovanni.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Giovani Morales</span>
                                 </div>
 
                                 <h3>
