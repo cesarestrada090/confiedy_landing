@@ -41,7 +41,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -77,7 +77,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -112,7 +112,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -150,7 +150,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -186,7 +186,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -221,7 +221,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -259,7 +259,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -295,7 +295,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -330,7 +330,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
@@ -377,7 +377,7 @@ const PopularCourses = () => {
                                         <i className='flaticon-agenda'></i> 4 Horas
                                     </li>
                                     <li>
-                                        <i className='flaticon-people'></i> Máximo 15 estudiantes
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
                                     </li>
                                 </ul>
                             </div>
