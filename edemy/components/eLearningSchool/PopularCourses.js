@@ -175,7 +175,7 @@ const PopularCourses = () => {
 
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
-                                        <a>Estadística </a>
+                                        <a>Estadística - PUCP </a>
                                     </Link>
                                 </h3>
 
@@ -211,7 +211,7 @@ const PopularCourses = () => {
 
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
-                                        <a>Matemática I</a>
+                                        <a>Matemática I - PUCP</a>
                                     </Link>
                                 </h3>
                                 <p>El curso ofrece una introducción a las funciones matemáticas y a algunas aplicaciones de las mismas a través de los siguientes temas: sistema de números reales; elementos de geometría analítica; gráficas de ecuaciones e inecuaciones lineales y cuadráticas en dos variables reales; introducción a la programación lineal; funciones reales de variable real: lineales, cuadráticas, polinomiales, racionales; modelo básico del inventario; funciones exponenciales y logarítmicas; sucesiones; sumatorias; elementos de matemática financiera.</p>
@@ -248,7 +248,7 @@ const PopularCourses = () => {
 
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
-                                        <a>Matemática 2</a>
+                                        <a>Matemática 2 - PUCP</a>
                                     </Link>
                                 </h3>
 
@@ -284,7 +284,7 @@ const PopularCourses = () => {
 
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
-                                        <a>Finanzas 1 </a>
+                                        <a>Finanzas 1 - PUCP </a>
                                     </Link>
                                 </h3>
 
@@ -320,7 +320,7 @@ const PopularCourses = () => {
 
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
-                                        <a>Contabilidad Financiera</a>
+                                        <a>Contabilidad Financiera - PUCP</a>
                                     </Link>
                                 </h3>
                                 <p>El curso ofrece una introducción a las funciones matemáticas y a algunas aplicaciones de las mismas a través de los siguientes temas: sistema de números reales; elementos de geometría analítica; gráficas de ecuaciones e inecuaciones lineales y cuadráticas en dos variables reales; introducción a la programación lineal; funciones reales de variable real: lineales, cuadráticas, polinomiales, racionales; modelo básico del inventario; funciones exponenciales y logarítmicas; sucesiones; sumatorias; elementos de matemática financiera.</p>
