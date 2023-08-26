@@ -346,20 +346,20 @@ const PopularCourses = () => {
                             <div className="courses-image">
 
                                 <a className="d-block image">
-                                    <img src="/images/courses/courses3.jpg" alt="image" />
+                                    <img src="/images/courses/courses11.jpg" alt="image" />
                                 </a>
 
                             </div>
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
-                                    <span>Juan Carlos Minaya</span>
+                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Aarón Diaz</span>
                                 </div>
 
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
-                                        <a>Fundamentos de Cálculo</a>
+                                        <a>Fundamentos de Cálculo - PUCP</a>
                                     </Link>
                                 </h3>
                                 <p>En este curso, se
@@ -383,7 +383,217 @@ const PopularCourses = () => {
                             </div>
                         </div>
                     </div>
+                    <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div className="single-courses-box">
+                            <div className="courses-image">
+
+                                <a className="d-block image">
+                                    <img src="/images/courses/courses12.jpg" alt="image" />
+                                </a>
+
+                            </div>
+
+                            <div className="courses-content">
+                                <div className="course-author d-flex align-items-center">
+                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Aaron Diaz</span>
+                                </div>
+
+                                <h3>
+                                    <Link href="https://wa.me/51996115374">
+                                        <a>Álgebra Matricial Y Geometría Analítica - PUCP</a>
+                                    </Link>
+                                </h3>
+                                <p>Es un curso teórico-práctico que aporta al logro de la competencia general aprender a aprender porque desarrolla la capacidad de aplicar conocimientos de matemáticas para la resolución de problemas. En este curso, se abarca los siguientes tres temas: geometría analítica, con las definiciones y propiedades importantes de la recta, circunferencia, parábola, elipse e hipérbola, y la rotación de ejes; álgebra matricial, que comprende las definiciones y operaciones de vectores y matrices aplicados en la resolución de sistemas lineales homogéneos y no homogéneos, y que, además, incluye el cálculo de vectores y valores propios de una matriz; números complejos y sus operaciones básicas. En este curso, se propone la aplicación de todos estos temas en la resolución de problemas intramatemáticos y extramatemáticos.</p>
+
+                                <ul className="courses-box-footer d-flex justify-content-between align-items-center">
+                                    <li>
+                                        <i className='flaticon-agenda'></i> 4 Horas
+                                    </li>
+                                    <li>
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div className="single-courses-box">
+                            <div className="courses-image">
+
+                                <a className="d-block image">
+                                    <img src="/images/courses/courses5.jpg" alt="image" />
+                                </a>
+
+                            </div>
+
+                            <div className="courses-content">
+                                <div className="course-author d-flex align-items-center">
+                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Aarón Diaz</span>
+                                </div>
+
+                                <h3>
+                                    <Link href="https://wa.me/51996115374">
+                                        <a>Fundamentos de Física - PUCP</a>
+                                    </Link>
+                                </h3>
+                                <p>Se aborda de manera teórico-práctica la mecánica de la partícula, profundizando en los temas de cinemática y dinámica; para este fin, se realizan operaciones con magnitudes escalares y vectoriales. En cinemática, se estudian temas de movimiento rectilíneo, casos de velocidad o aceleración constantes, cuerpos en caída libre y su representación gráfica en el tiempo, así como el movimiento de proyectiles. En dinámica, se desarrollan las tres leyes de Newton, los conceptos de masa y peso, y la fuerza de rozamiento. Finalmente, se generan espacios de aprendizaje para la aplicación de los conceptos básicos de Trabajo y Energía.</p>
+
+                                <ul className="courses-box-footer d-flex justify-content-between align-items-center">
+                                    <li>
+                                        <i className='flaticon-agenda'></i> 4 Horas
+                                    </li>
+                                    <li>
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+
+
+
+
+
+
+
+
+                <div className="row">
+                    <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div className="single-courses-box">
+                            <div className="courses-image">
+
+                                <a className="d-block image">
+                                    <img src="/images/courses/courses4.jpg" alt="image" />
+                                </a>
+
+                            </div>
+
+                            <div className="courses-content">
+                                <div className="course-author d-flex align-items-center">
+                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Aarón Diaz</span>
+                                </div>
+
+                                <h3>
+                                    <Link href="https://wa.me/51996115374">
+                                        <a>Cálculo I - Universidad de Lima</a>
+                                    </Link>
+                                </h3>
+                                <p>La asignatura tiene como propósito desarrollar tanto las habilidades orientadas al razonamiento lógico como las competencias para el análisis, la abstracción, la generalización y la asociación dirigidas a la solución de problemas relacionados con la Ingeniería, mediante el uso del cálculo diferencial e integral en una variable real. Comprende el estudio de: funciones trigonométricas, límites y continuidad de funciones, derivadas de funciones, aplicaciones de la derivada, integral indefinida de una función. </p>
+
+                                <ul className="courses-box-footer d-flex justify-content-between align-items-center">
+                                    <li>
+                                        <i className='flaticon-agenda'></i> 4 Horas
+                                    </li>
+                                    <li>
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div className="single-courses-box">
+                            <div className="courses-image">
+                                <a className="d-block image">
+                                    <img src="/images/courses/courses8.jpg" alt="image" />
+                                </a>
+                            </div>
+
+                            <div className="courses-content">
+                                <div className="course-author d-flex align-items-center">
+                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Aarón Diaz</span>
+                                </div>
+
+                                <h3>
+                                    <Link href="https://wa.me/51996115374">
+                                        <a>Matemática Básica - Universidad de Lima</a>
+                                    </Link>
+                                </h3>
+                                <p>La asignatura desarrolla en los estudiantes tanto las habilidades orientadas al pensamiento lógicocomo las competencias para el análisis, la abstracción, la generalización y la asociación dirigidasa la solución de problemas. Comprende el estudio del sistema de los números reales, la recta enel plano, cónicas y funciones reales.</p>
+
+                                <ul className="courses-box-footer d-flex justify-content-between align-items-center">
+                                    <li>
+                                        <i className='flaticon-agenda'></i> 4 Horas
+                                    </li>
+                                    <li>
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div className="single-courses-box">
+                            <div className="courses-image">
+                                <a className="d-block image">
+                                    <img src="/images/courses/courses3.jpg" alt="image" />
+                                </a>
+                            </div>
+
+                            <div className="courses-content">
+                                <div className="course-author d-flex align-items-center">
+                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Aarón Diaz</span>
+                                </div>
+                                <h3>
+                                    <Link href="https://wa.me/51996115374">
+                                        <a>Estadística Básica para los negocios - Universidad de Lima</a>
+                                    </Link>
+                                </h3>
+                                <p>La asignatura tiene como propósito desarrollar aspectos fundamentales del método estadístico como herramienta para el buen uso de la información orientada a la toma de decisiones en los negocios. Comprende el estudio de: nociones básicas de la estadística, fuentes y técnicas de recopilación  de  datos,  técnicas  de  procesamiento  y  presentación  de  datos,  y  medidas estadísticas de resumen con análisis exploratorio de datos y técnicas de conteo.</p>
+
+                                <ul className="courses-box-footer d-flex justify-content-between align-items-center">
+                                    <li>
+                                        <i className='flaticon-agenda'></i> 4 Horas
+                                    </li>
+                                    <li>
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div className="row">
+                    <div className="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+                        <div className="single-courses-box">
+                            <div className="courses-image">
+                                <a className="d-block image">
+                                    <img src="/images/courses/courses4.jpg" alt="image" />
+                                </a>
+                            </div>
+                            <div className="courses-content">
+                                <div className="course-author d-flex align-items-center">
+                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Juan Carlos Minaya</span>
+                                </div>
+                                <h3>
+                                    <Link href="https://wa.me/51996115374">
+                                        <a>Matemática Aplicada para Los Negocios - Universidad de Lima</a>
+                                    </Link>
+                                </h3>
+                                <p>La  asignatura  tiene  como  propósito  desarrollar  las  habilidades  orientadas  al razonamiento  lógico,  las  competencias  para  el  análisis,  la  abstracción,  la generalización y la síntesis dirigidas a la solución de problemas del cálculo diferencial e  integral  de  funciones  reales  de  variable  real,  relacionados  con  el  campo  de  los negocios. Comprende el estudio de: construcción de modelos matemáticos y límites, la derivada y sus aplicaciones, funciones trascendentes, la integral y sus aplicaciones a los negocios. </p>
+
+                                <ul className="courses-box-footer d-flex justify-content-between align-items-center">
+                                    <li>
+                                        <i className='flaticon-agenda'></i> 4 Horas
+                                    </li>
+                                    <li>
+                                        <i className='flaticon-people'></i> Máximo 5 estudiantes
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     )
