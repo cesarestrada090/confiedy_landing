@@ -505,8 +505,8 @@ const PopularCourses = () => {
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
-                                    <span>Aarón Diaz</span>
+                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Juan Carlos Minaya</span>
                                 </div>
 
                                 <h3>
@@ -537,8 +537,8 @@ const PopularCourses = () => {
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/aaron_diaz.jpeg" className="rounded-circle" alt="image" />
-                                    <span>Aarón Diaz</span>
+                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Juan Carlos Minaya</span>
                                 </div>
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
