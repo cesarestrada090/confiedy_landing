@@ -205,8 +205,8 @@ const PopularCourses = () => {
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/gino.jpeg" className="rounded-circle" alt="image" />
-                                    <span>Gino Bonilla</span>
+                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Juan Carlos Minaya</span>
                                 </div>
 
                                 <h3>
@@ -242,13 +242,13 @@ const PopularCourses = () => {
 
                             <div className="courses-content">
                                 <div className="course-author d-flex align-items-center">
-                                    <img src="/images/gino.jpeg" className="rounded-circle" alt="image" />
-                                    <span>Gino Bonilla </span>
+                                    <img src="/images/juan_minaya.jpeg" className="rounded-circle" alt="image" />
+                                    <span>Juan Carlos Minaya</span>
                                 </div>
 
                                 <h3>
                                     <Link href="https://wa.me/51996115374">
-                                        <a>Matemática 2 - PUCP</a>
+                                        <a>Matemática II - PUCP</a>
                                     </Link>
                                 </h3>
 
