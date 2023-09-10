@@ -1,7 +1,7 @@
 {
-	"name": "edemy",
+	"name": "Confiedy",
 	"version": "1.4.0",
-	"description": "eDemy - React Next.js Education LMS Template",
+	"description": "Confiedy - Conecta con tu profesor de confianza",
 	"main": "index.js",
 	"scripts": {
 		"dev": "next dev",
