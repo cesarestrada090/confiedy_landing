@@ -1,7 +1,7 @@
 {
 	"name": "Confiedy",
 	"version": "1.4.0",
-	"description": "Confiedy - Conecta con tu profesor de confianza",
+	"description": "Confiedy - Conecta con tu asesor de confianza",
 	"main": "index.js",
 	"scripts": {
 		"dev": "next dev",
