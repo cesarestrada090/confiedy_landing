@@ -1,0 +1,33 @@
+[
+    {
+        "id": 5,
+        "docenteId": 1,
+        "docente": "Cesar Estrada",
+        "imagenPerfil": "https://www.confiedy.com/images/juan_minaya.jpeg",
+        "Numero Estrellas": 3,
+        "numeroHorasDictadas": 10,
+        "cursoId": 1,
+        "curso": "Matematica 01"
+    
+    },
+    {
+        "id": 5,
+        "docenteId": 1,
+        "docente": "Juan Minaya",
+        "imagenPerfil": "https://www.confiedy.com/images/gino.jpeg",
+        "Numero Estrellas": 3,
+        "numeroHorasDictadas": 10,
+        "cursoId": 1,
+        "curso": "Matematica 01"
+    },
+    {
+        "id": 5,
+        "docenteId": 1,
+        "docente": "Kerly Pereda",
+        "imagenPerfil": "https://www.confiedy.com/images/gino.jpeg",
+        "Numero Estrellas": 4,
+        "numeroHorasDictadas": 10,
+        "cursoId": 1,
+        "curso": "Matematica 01"
+    }
+]
