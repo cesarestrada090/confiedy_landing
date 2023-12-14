@@ -44,6 +44,7 @@ const PopularCourses = () => {
     if (!universityFilterValue) {
       setCourses(coursesAll)
       setCoursesFiltered(coursesAll)
+      setCourseFilter([])
 
       return
     }
