@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "curso": "Matematica 01",
+    "codigoCurso": "MAT01",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses1.jpg",
+    "descripción": "El curso permitirá a los estudiantes reconocer la importancia de las matemáticas en diversas actividades de la vida cotidiana, así como en distintos campos del conocimiento y contribuirá a desarrollar el razonamiento lógico. Esto se hará a través de situaciones que correspondan a contextos propios de las distintas especialidades y cuyo análisis requiera del empleo de conceptos matemáticos fundamentales.",
+    "universidadId": 1,
+    "nombreUniversidad": "PUCP",
+    "ciclo": 1,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 5
+  },
+  {
+    "id": 13,
+    "curso": "Fisica 01",
+    "codigoCurso": "FIS01",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses4.jpg",
+    "descripción": "Se aborda de manera teórico-práctica la mecánica de la partícula, profundizando en los temas de cinemática y dinámica; para este fin, se realizan operaciones con magnitudes escalares y vectoriales. En cinemática, se estudian temas de movimiento rectilíneo, casos de velocidad o aceleración constantes, cuerpos en caída libre y su representación gráfica en el tiempo, así como el movimiento de proyectiles. En dinámica, se desarrollan las tres leyes de Newton, los conceptos de masa y peso, y la fuerza de rozamiento. Finalmente, se generan espacios de aprendizaje para la aplicación de los conceptos básicos de Trabajo y Energía.",
+    "universidadId": 1,
+    "nombreUniversidad": "PUCP",
+    "ciclo": 2,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 5
+  },
+  {
+    "id": 32,
+    "curso": "Finanzas 1",
+    "codigoCurso": "FIN01",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses1.jpg",
+    "descripción": "Busca desarrollar en el alumno las habilidades necesarias para la evaluación y análisis de proyectos de inversión en un contexto de riesgo. Para esto, se profundiza en temas como los criterios para evaluar proyectos de inversión, el costo promedio ponderado del capital, el modelo de valoración de activos (CAPM) para mercados emergentes, la inversión fija y el valor residual, el capital de trabajo y los gastos pre-operativos, la evaluación económica y financiera, la evaluación de proyectos de inversión en MYPES y el análisis de sensibilidad, escenarios y simulación.",
+    "universidadId": 1,
+    "nombreUniversidad": "PUCP",
+    "ciclo": 4,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 5
+  },
+  {
+    "id": 53,
+    "curso": "Matemática Aplicada",
+    "codigoCurso": "MATAP02",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses3.jpg",
+    "descripción": "Se aborda de manera teórico-práctica la mecánica de la partícula, profundizando en los temas de cinemática y dinámica; para este fin, se realizan operaciones con magnitudes escalares y vectoriales. En cinemática, se estudian temas de movimiento rectilíneo, casos de velocidad o aceleración constantes, cuerpos en caída libre y su representación gráfica en el tiempo, así como el movimiento de proyectiles. En dinámica, se desarrollan las tres leyes de Newton, los conceptos de masa y peso, y la fuerza de rozamiento. Finalmente, se generan espacios de aprendizaje para la aplicación de los conceptos básicos de Trabajo y Energía.",
+    "universidadId": 1,
+    "nombreUniversidad": "PUCP",
+    "ciclo": 3,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 6
+  },
+  {
+    "id": 352,
+    "curso": "Calculo 3",
+    "codigoCurso": "CAL02",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses2.jpg",
+    "descripción": "La asignatura tiene como propósito desarrollar tanto las habilidades orientadas al razonamiento lógico como las competencias para el análisis, la abstracción, la generalización y la asociación dirigidas a la solución de problemas relacionados con la Ingeniería, mediante el uso del cálculo diferencial e integral en una variable real. Comprende el estudio de: funciones trigonométricas, límites y continuidad de funciones, derivadas de funciones, aplicaciones de la derivada, integral indefinida de una función.",
+    "universidadId": 1,
+    "nombreUniversidad": "PUCP",
+    "ciclo": 5,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 5
+  },
+  {
+    "id": 11,
+    "curso": "Matematica 01",
+    "codigoCurso": "MAT01",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses1.jpg",
+    "descripción": "El curso permitirá a los estudiantes reconocer la importancia de las matemáticas en diversas actividades de la vida cotidiana, así como en distintos campos del conocimiento y contribuirá a desarrollar el razonamiento lógico. Esto se hará a través de situaciones que correspondan a contextos propios de las distintas especialidades y cuyo análisis requiera del empleo de conceptos matemáticos fundamentales.",
+    "universidadId": 2,
+    "nombreUniversidad": "UPC",
+    "ciclo": 1,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 5
+  },
+  {
+    "id": 53,
+    "curso": "Fisica 01",
+    "codigoCurso": "FIS01",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses4.jpg",
+    "descripción": "Se aborda de manera teórico-práctica la mecánica de la partícula, profundizando en los temas de cinemática y dinámica; para este fin, se realizan operaciones con magnitudes escalares y vectoriales. En cinemática, se estudian temas de movimiento rectilíneo, casos de velocidad o aceleración constantes, cuerpos en caída libre y su representación gráfica en el tiempo, así como el movimiento de proyectiles. En dinámica, se desarrollan las tres leyes de Newton, los conceptos de masa y peso, y la fuerza de rozamiento. Finalmente, se generan espacios de aprendizaje para la aplicación de los conceptos básicos de Trabajo y Energía.",
+    "universidadId": 2,
+    "nombreUniversidad": "UPC",
+    "ciclo": 2,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 5
+  },
+  {
+    "id": 242,
+    "curso": "Finanzas 1",
+    "codigoCurso": "FIN01",
+    "imagenCurso": "https://www.confiedy.com/images/courses/courses1.jpg",
+    "descripción": "Busca desarrollar en el alumno las habilidades necesarias para la evaluación y análisis de proyectos de inversión en un contexto de riesgo. Para esto, se profundiza en temas como los criterios para evaluar proyectos de inversión, el costo promedio ponderado del capital, el modelo de valoración de activos (CAPM) para mercados emergentes, la inversión fija y el valor residual, el capital de trabajo y los gastos pre-operativos, la evaluación económica y financiera, la evaluación de proyectos de inversión en MYPES y el análisis de sensibilidad, escenarios y simulación.",
+    "universidadId": 3,
+    "nombreUniversidad": "Universidad de Lima",
+    "ciclo": 4,
+    "duracion": "4 horas",
+    "maximoEstudiantes": 5
+  }
+]
