@@ -17,17 +17,20 @@ import { LightTheme, BaseProvider } from 'baseui'
 import { styletron } from '../styletron'
 import Layout from '../components/_App/Layout'
 
-import APIContextProvider from '../contexts/apiContext'
+import UniversityContextProvider from '../contexts/universityContext'
+import CoursesContextProvider from '../contexts/coursesContext'
 
 const MyApp = ({ Component, pageProps }) => {
   return (
     <StyletronProvider value={styletron}>
       <BaseProvider theme={LightTheme}>
-        <APIContextProvider>
-          <Layout>
-            <Component {...pageProps} />
-          </Layout>
-        </APIContextProvider>
+        <UniversityContextProvider>
+          <CoursesContextProvider>
+            <Layout>
+              <Component {...pageProps} />
+            </Layout>
+          </CoursesContextProvider>
+        </UniversityContextProvider>
       </BaseProvider>
     </StyletronProvider>
   )

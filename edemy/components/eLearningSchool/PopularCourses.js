@@ -6,10 +6,11 @@ import CourseComponent from './CourseComponent'
 import UniversityFilter from './UniversityFilter'
 import CourseFilter from './CourseFilter'
 
-import { useAPI } from '../../contexts/apiContext'
+import { useUniversity } from '../../contexts/universityContext'
 
 import axios from 'axios'
 import { API_URLS } from './constants'
+import { useCourses } from '../../contexts/coursesContext'
 
 const PopularCourses = () => {
   const [courses, setCourses] = useState([])
@@ -17,7 +18,13 @@ const PopularCourses = () => {
   const [universityFilter, setUniversityFilter] = useState([])
   const [courseFilter, setCourseFilter] = useState([])
 
-  const { universities } = useAPI()
+  const { universities } = useUniversity()
+  const { courses: coursesAll } = useCourses()
+
+  useEffect(() => {
+    setCourses(coursesAll)
+    setCoursesFiltered(coursesAll)
+  }, [coursesAll])
 
   const universityFilterList = useMemo(() => universities)
   const courseFilterList = useMemo(
@@ -35,16 +42,15 @@ const PopularCourses = () => {
     const universityFilterValue = params.value[0]?.id || ''
 
     if (!universityFilterValue) {
-      setCourses([])
-      setCoursesFiltered([])
+      setCourses(coursesAll)
+      setCoursesFiltered(coursesAll)
 
       return
     }
 
     axios
       .get(`${API_URLS.listCoursesPerUniversity}${universityFilterValue}`)
-      .then(function (response) {
-        console.log('response', response.data)
+      .then((response) => {
         setCourses(response.data)
         setCoursesFiltered(response.data)
       })

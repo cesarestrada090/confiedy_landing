@@ -4,7 +4,6 @@ import React, { useCallback } from 'react'
 import Link from 'next/link'
 
 const CourseComponent = ({ data }) => {
-  console.log('data', data)
   return (
     <div>
       <div className="single-courses-box">
