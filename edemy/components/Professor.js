@@ -35,12 +35,7 @@ const Professor = ({ data }) => {
               readOnly
             />
             <Block marginTop={'scale400'}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
-              ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas
-              accumsan lacus vel facilisis. Lorem ipsum dolor sit amet,
-              consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-              labore et dolore magna aliqua.
+              {data.descripcion}
             </Block>
             <LabelMedium marginTop={'scale600'}>
               {`Horas Dictadas: ${data.numeroHorasDictadas}`}
