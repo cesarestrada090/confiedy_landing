@@ -111,6 +111,13 @@ const PopularCourses = () => {
           </Block>
         </div>
 
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
         <Block
           display={'grid'}
           gridGap={'scale800'}
