@@ -63,7 +63,16 @@ const Navbar = () => {
                                     <div className="option-item">
                                         <Link href="https://wa.me/51996115374">
                                             <a className="default-btn" >
-                                                <i className="flaticon-user"></i> ¡Inscribete! <span></span>
+                                                <i className="flaticon-user"></i> ¡Inscríbete! <span></span>
+                                            </a>
+                                        </Link>
+                                    </div>
+                                </div>
+                                <div className="others-option d-flex align-items-center">
+                                    <div className="option-item">
+                                        <Link href="https://forms.gle/P39JfsTAkZ1cc4yN8">
+                                            <a className="default-btn" >
+                                                <i className="flaticon-teacher"></i>¡Conviértete en asesor!<span></span>
                                             </a>
                                         </Link>
                                     </div>
