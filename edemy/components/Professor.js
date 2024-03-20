@@ -41,7 +41,7 @@ const Professor = ({ data }) => {
               {`Horas Dictadas: ${data.numeroHorasDictadas}`}
             </LabelMedium>
             <LabelMedium marginTop={'scale600'}>
-                 { tasks && tasks.length > 0 && <p><b>También realizo asesorias en trabajos en:</b></p>}
+                 { tasks && tasks.length > 0 && <p><b>También realizo asesorias en trabajos de:</b></p>}
 
                </LabelMedium>
                {tasks.map((task) => (
